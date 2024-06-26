@@ -71,5 +71,9 @@ Photoshop's versatility allows artists to seamlessly integrate DALL-E's outputs 
 <br>
 [Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
 
+#
+
+Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) and shares files using <a href="https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr">OneDrive</a>.
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
