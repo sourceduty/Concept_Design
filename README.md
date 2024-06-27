@@ -1,5 +1,9 @@
 ![Modern Clear Plastic Record Player Design](https://github.com/sourceduty/Concept_Design/assets/123030236/c2824e75-5e95-4513-9803-4eff8308bc46)
 
+> 3D model concept image creator using DALL-E 3.
+
+#
+
 [Concept Design](https://chat.openai.com/g/g-JAsawu1Lv-concept-design) is a specialized tool that assists users in creating 3D model concept images. It guides you through developing your ideas into detailed 3D models, focusing on elements like textures, lighting, and structure. Whether you're a professional in 3D modeling, product design, or just exploring the field, Concept Design offers step-by-step assistance, insights on current trends, and best practices in 3D design. The process is interactive and collaborative, designed to engage you in the creative process and provide personalized guidance tailored to your specific project requirements and experience level.
 
 #
