@@ -90,7 +90,7 @@ Photoshop's versatility allows artists to seamlessly integrate DALL-E's outputs 
 #
 ### Related Links
 
-[Produt Design](https://github.com/sourceduty/Product_Design)
+[Product Design](https://github.com/sourceduty/Product_Design)
 <br>
 [Sports Product](https://github.com/sourceduty/Sports_Product)
 <br>
