@@ -85,7 +85,7 @@ Photoshop's versatility allows artists to seamlessly integrate DALL-E's outputs 
 
 #
 
-![DALL-E 3](https://github.com/user-attachments/assets/34a619ce-9623-4ec2-b743-a12a3eb28d45)
+![DALL-E 3](https://github.com/user-attachments/assets/54acd5f8-719a-47ba-b98e-6e7f01466a07)
 
 #
 ### Related Links
