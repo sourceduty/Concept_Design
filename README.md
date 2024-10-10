@@ -84,6 +84,10 @@ Photoshop's versatility allows artists to seamlessly integrate DALL-E's outputs 
 ![Fiber Optic Electric Toothbrush](https://github.com/sourceduty/Concept_Design/assets/123030236/3e10d2cb-d2b7-444a-95e4-578e78d2e7b0)
 
 #
+
+![DALL-E 3](https://github.com/user-attachments/assets/34a619ce-9623-4ec2-b743-a12a3eb28d45)
+
+#
 ### Related Links
 
 [Produt Design](https://github.com/sourceduty/Product_Design)
