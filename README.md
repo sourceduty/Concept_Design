@@ -1,4 +1,4 @@
-![Modern Clear Plastic Record Player Design](https://github.com/sourceduty/Concept_Design/assets/123030236/c2824e75-5e95-4513-9803-4eff8308bc46)
+![Tropical Aloha Volcanic Blender](https://github.com/user-attachments/assets/9cd2b066-811d-4b35-8c09-63a2ca1b828c)
 
 > 3D model concept image creator using DALL-E 3.
 
@@ -86,6 +86,10 @@ Photoshop's versatility allows artists to seamlessly integrate DALL-E's outputs 
 #
 
 ![DALL-E 3](https://github.com/user-attachments/assets/54acd5f8-719a-47ba-b98e-6e7f01466a07)
+
+#
+
+![Modern Clear Plastic Record Player Design](https://github.com/sourceduty/Concept_Design/assets/123030236/c2824e75-5e95-4513-9803-4eff8308bc46)
 
 #
 ### Related Links
