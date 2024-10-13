@@ -1,4 +1,4 @@
-![Tropical Aloha Volcanic Blender](https://github.com/user-attachments/assets/9cd2b066-811d-4b35-8c09-63a2ca1b828c)
+https://github.com/user-attachments/assets/f13cddc7-fd31-4fa6-a276-7f8afb20ea8a
 
 > 3D model concept image creator using DALL-E 3.
 
@@ -85,7 +85,7 @@ Photoshop's versatility allows artists to seamlessly integrate DALL-E's outputs 
 
 #
 
-![DALL-E 3](https://github.com/user-attachments/assets/54acd5f8-719a-47ba-b98e-6e7f01466a07)
+![Tropical Aloha Volcanic Blender](https://github.com/user-attachments/assets/9cd2b066-811d-4b35-8c09-63a2ca1b828c)
 
 #
 
