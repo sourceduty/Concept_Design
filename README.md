@@ -103,6 +103,10 @@ This approach also applies to any themes that involve current political conflict
 [Sports Product](https://github.com/sourceduty/Sports_Product)
 <br>
 [Future Resale Value](https://github.com/sourceduty/Future_Resale_Value)
+<br>
+[Rebrand](https://github.com/sourceduty/Rebrand)
+<br>
+[Image Emulator](https://github.com/sourceduty/Image_Emulator)
 
 #
 
