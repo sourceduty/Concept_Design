@@ -84,11 +84,15 @@ Photoshop's versatility allows artists to seamlessly integrate DALL-E's outputs 
 ![Fiber Optic Electric Toothbrush](https://github.com/sourceduty/Concept_Design/assets/123030236/3e10d2cb-d2b7-444a-95e4-578e78d2e7b0)
 
 #
+### Restricted Themes
 
-![Tropical Aloha Volcanic Blender](https://github.com/user-attachments/assets/9cd2b066-811d-4b35-8c09-63a2ca1b828c)
+OpenAI’s content policy limits the depiction of certain countries in potentially sensitive or controversial ways, especially when it involves political themes. For example, countries like North Korea, Iran, and Russia often carry associations with current geopolitical issues, and imagery related to these nations could be perceived as promoting or endorsing particular political stances or ideologies. Depictions of flags, symbols, or government-related content tied to these nations could lead to misunderstandings or unintended interpretations, so OpenAI aims to avoid such portrayals to remain neutral and respectful.
+
+This approach also applies to any themes that involve current political conflicts, such as content related to disputed regions or ongoing international tensions. By avoiding these topics, OpenAI can help maintain a positive and inclusive creative environment. Users are instead encouraged to explore broad cultural inspirations or artistic themes unrelated to specific countries or political issues. This approach fosters an experience centered around creativity, innovation, and universally appealing designs.
 
 #
-
+![Tropical Aloha Volcanic Blender](https://github.com/user-attachments/assets/9cd2b066-811d-4b35-8c09-63a2ca1b828c)
+#
 ![Modern Clear Plastic Record Player Design](https://github.com/sourceduty/Concept_Design/assets/123030236/c2824e75-5e95-4513-9803-4eff8308bc46)
 
 #
