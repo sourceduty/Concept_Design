@@ -1,4 +1,4 @@
-https://github.com/user-attachments/assets/f13cddc7-fd31-4fa6-a276-7f8afb20ea8a
+![Stop](https://github.com/user-attachments/assets/76090c31-2c7a-42d4-8d65-10677c328c2f)
 
 > 3D model concept image creator using DALL-E 3.
 
