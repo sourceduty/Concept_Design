@@ -1,3 +1,4 @@
+![Vase](https://github.com/user-attachments/assets/5b0710f8-35fc-4d3d-8796-43c3da53b5f5)
 ![Design](https://github.com/user-attachments/assets/de8eae36-7ce3-4068-86de-0232db3499a6)
 
 > 3D model concept image creator using DALL-E 3.
